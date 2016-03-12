@@ -51,3 +51,4 @@ Names
 * IDE and compiler, and unit tests protects us from type errors.
 * old 90's style might not be relevant today.
 
+### Parts of speech
