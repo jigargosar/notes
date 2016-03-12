@@ -6,6 +6,8 @@
 - Fragile: seemingly insignificant changes, break other parts of the system. e.g: relying on menu string as a client interface to api.
 - Inseparable: Parts that can be profitably used in another system cannot be separated.
 
+
+
 ### Clean Code Book notes:
 
 
@@ -20,4 +22,5 @@
 
 **My Idea from the emacs recording keystrokes and replaying it;)**: how about recording a programming session and viewing it after 30 mins, this will be fun! a way to program in chunks of 30 mins. Nice way to practice this discipline ;)
 
+The Boy Scout RuleThe Boy Scout Rule: Leave the campground cleaner than you found it.5
 
