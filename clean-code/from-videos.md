@@ -38,4 +38,5 @@ Names
 
 ### Avoid disinformation
 
-* names that 
+* names that dont mean what they said, thats disinformation, worst sin a programmer could ever make.
+
