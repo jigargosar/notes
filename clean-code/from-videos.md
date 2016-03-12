@@ -52,3 +52,5 @@ Names
 * old 90's style might not be relevant today.
 
 ### Parts of speech
+
+* Classes and variables are nouns. Methods are verbs.
