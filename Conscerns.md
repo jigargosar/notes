@@ -8,4 +8,7 @@
 * for now I will tweet manually.
 
 
+ # Auto push after commit.
  
+ * have just added a post commit hook.
+ * lets test it
