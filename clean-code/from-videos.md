@@ -28,6 +28,9 @@ Rotted system is
 >Bad code not only slows us down in the long run, as we know by now but also in the short run.
 
 
+Episode 2 Names
+===
+
 Names
 ---
 
