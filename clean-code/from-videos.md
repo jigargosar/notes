@@ -44,3 +44,10 @@ Names
 * should be pronounceable
 
 * **my idea look at popular open source projects and apply these principles** great idea.
+
+### avoid encoding
+
+* prefixing names with type, e.g IDate => interface, CDate => class
+* IDE and compiler, and unit tests protects us from type errors.
+* old 90's style might not be relevant today.
+
