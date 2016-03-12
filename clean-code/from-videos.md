@@ -30,8 +30,12 @@ Rotted system is
 Names
 ---
 
-* reveal intent not content. badname. 
+### **_reveal intent not content. badname._** 
 
 * remember names are not for your convinence they are your primary tool for communicating intent (CI) 
 * and CI is always your first priority
 * its even more important than making sure that code works. 
+
+### Avoid disinformation
+
+* names that 
