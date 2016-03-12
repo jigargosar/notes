@@ -54,3 +54,4 @@ Names
 ### Parts of speech
 
 * Classes and variables are nouns. Methods are verbs.
+* avoid noise words, manager, processor, info, data, (what about Handler? Service? ) 
