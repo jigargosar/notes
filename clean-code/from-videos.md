@@ -56,3 +56,4 @@ Names
 * Classes and variables are nouns or noun phrases. Methods are verbs or verb phrases (getPrice, or postPayment)
 * avoid noise words, manager, processor, info, data, (what about Handler? Service? )
 * boolean variables should be written as predicates, isSomething, hasSomething. isTerminated, isEmpty
+* martin prefers getFirstName() to firstName(). Martin school of thought. 
