@@ -42,3 +42,5 @@ Names
 * name, like an honourable human should "say what is means and mean what it says"
 * change names when meaning change, but it can be hard, due to many constraints. e.g. public api. etc.
 * should be pronounceable
+
+* **my idea look at popular open source projects and apply these principles** great idea.
