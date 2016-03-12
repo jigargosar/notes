@@ -8,8 +8,11 @@
 * for now I will tweet manually.
 
 
- # Auto push after commit.
- 
- * have just added a post commit hook.
- * lets test it
+# Auto push after commit.
+
+* have just added a post commit hook.
+* lets test it
+* later its taking too long
+	https://github.com/jigargosar/git-autopush/blob/master/git-autopush.sh
+* 
  
