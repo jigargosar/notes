@@ -60,7 +60,14 @@ Names
 * Enums: adjectives, state or object descriptors.
 
 ### Scope length and name length
+
+**Variable Names**
 * for variables that are in scope, TestResult tr = something, and its used immediately, its 
 perfectly valid name. it reads better. 
 * longer the scope of the variable, longer the name. But variable should have short scope.
 * if scope is few lines then we could perfectly use variable name e, instead of element. 
+ 
+**Class and Function names**
+* they follow the opposite rule, longer the scope shorter the name. File.open
+* and private methods tend to have longer names, explaining what they are trying to do. e.g. 
+tryToProcessInstructions()
