@@ -70,3 +70,8 @@ perfectly valid name. it reads better.
 **Class and Function names**
 * they follow the opposite rule, longer the scope shorter the name. File.open
 * and private methods tend to have longer names, explaining what they are trying to do. e.g. tryToProcessInstructions()
+
+# Recap
+* watch video, it summarises everything very succinctly. 
+
+> Any fool can write code that computer can understand, but it takes a good programmer to write code that humans can understand -- Martin Fowler ;)
