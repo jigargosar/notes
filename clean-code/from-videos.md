@@ -58,3 +58,7 @@ Names
 * boolean variables should be written as predicates, isSomething, hasSomething. isTerminated, isEmpty
 * martin prefers getFirstName() to firstName(). Martin school of thought. 
 * Enums: adjectives, state or object descriptors.
+
+### Scope length and name length
+* for variables that are in scope, TestResult tr = something, and its used immediately, its 
+perfectly valid name. it reads better.  
