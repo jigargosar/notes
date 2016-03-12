@@ -32,4 +32,5 @@ Names
 
 * reveal intent not content. badname. 
 * it is important for the names to be correct than the if the program works correctly.
-* remember names are not for your convinence they are your primary tool for communicating. 
+* remember names are not for your convinence they are your primary tool for communicating intent. 
+* and
