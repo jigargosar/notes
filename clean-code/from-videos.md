@@ -54,4 +54,5 @@ Names
 ### Parts of speech
 
 * Classes and variables are nouns. Methods are verbs.
-* avoid noise words, manager, processor, info, data, (what about Handler? Service? ) 
+* avoid noise words, manager, processor, info, data, (what about Handler? Service? )
+* boolean variables should be written as predicates, isSomething, hasSomething. 
