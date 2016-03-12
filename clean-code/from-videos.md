@@ -55,4 +55,4 @@ Names
 
 * Classes and variables are nouns. Methods are verbs.
 * avoid noise words, manager, processor, info, data, (what about Handler? Service? )
-* boolean variables should be written as predicates, isSomething, hasSomething. 
+* boolean variables should be written as predicates, isSomething, hasSomething. isTerminated, isEmpty
