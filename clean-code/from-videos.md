@@ -69,5 +69,4 @@ perfectly valid name. it reads better.
  
 **Class and Function names**
 * they follow the opposite rule, longer the scope shorter the name. File.open
-* and private methods tend to have longer names, explaining what they are trying to do. e.g. 
-tryToProcessInstructions()
+* and private methods tend to have longer names, explaining what they are trying to do. e.g. tryToProcessInstructions()
