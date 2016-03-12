@@ -57,4 +57,4 @@ Names
 * avoid noise words, manager, processor, info, data, (what about Handler? Service? )
 * boolean variables should be written as predicates, isSomething, hasSomething. isTerminated, isEmpty
 * martin prefers getFirstName() to firstName(). Martin school of thought. 
-* Enums: adjectives, state descriptors.
+* Enums: adjectives, state or object descriptors.
