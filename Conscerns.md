@@ -19,3 +19,6 @@
 	https://github.com/jigargosar/git-autopush/blob/master/git-autopush.sh
 	https://github.com/nevik/gitwatch/blob/master/gitwatch.sh
  
+ ## OSX unable to push to git without password
+ * http://stackoverflow.com/questions/7773181/git-keeps-prompting-me-for-password
+ 
