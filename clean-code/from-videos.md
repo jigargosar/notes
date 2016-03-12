@@ -39,4 +39,4 @@ Names
 ### Avoid disinformation
 
 * names that dont mean what they said, thats disinformation, worst sin a programmer could ever make.
-
+* name like an honourable human should "say what is means and mean what it says"
