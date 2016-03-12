@@ -40,3 +40,4 @@ Names
 
 * names that dont mean what they said, thats disinformation, worst sin a programmer could ever make.
 * name, like an honourable human should "say what is means and mean what it says"
+* change names when meaning change, but it can be hard, due to many constraints.
