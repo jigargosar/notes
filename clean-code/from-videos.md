@@ -61,4 +61,5 @@ Names
 
 ### Scope length and name length
 * for variables that are in scope, TestResult tr = something, and its used immediately, its 
-perfectly valid name. it reads better.  
+perfectly valid name. it reads better. 
+* longer the scope of the variable, longer the name. But variable should have short scope.
