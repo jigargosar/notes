@@ -2,3 +2,4 @@
 * read OOAD classic.
 	* working effectively with legacy code.
 * look at open source projects and apply principles that you learn in clean code.
+* Java alternative to creating auto fixtures, auto SUTs.
